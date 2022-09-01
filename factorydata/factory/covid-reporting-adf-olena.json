@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf-olena",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6276e2f9-c95c-4877-8f57-c25c12dd9cc2",
+		"tenantId": "344057fb-4116-4d78-b790-de0d69049bd3"
+	}
+}
